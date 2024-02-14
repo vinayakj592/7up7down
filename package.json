@@ -1,10 +1,11 @@
 {
-  "name": "clock",
+  "name": "7up7down",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "vite"
+    "start": "vite",
+    "build": "vite build"
   },
   "keywords": [],
   "author": "",
